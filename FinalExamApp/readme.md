@@ -3,6 +3,9 @@
 A comprehensive Python-based application for administering programming exams with **built-in anti-cheat measures** and professional **PDF reporting**.
 
 ---
+> **Note:** This project was developed by the teaching staff for instructional purposes.  
+> It was not created by students.
+
 
 ## 📌 Overview
 This Python Exam System allows instructors to conduct exams that include various question types, enforce fullscreen mode, track cheating attempts, and generate detailed reports.
