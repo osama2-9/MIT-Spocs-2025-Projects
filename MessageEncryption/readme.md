@@ -63,5 +63,5 @@ No installation is required. Just download the `.py` file and run it.
 2. Open a terminal in the script’s directory.
 3. Run:
    ```bash
-   python encryption_system.py
+   python MessageEncryption.py
    ```
