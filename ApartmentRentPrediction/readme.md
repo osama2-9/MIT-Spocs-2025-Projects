@@ -1,6 +1,6 @@
 # 🏠 Apartment Rent Predictor
 
-A **machine learning web application** that predicts apartment rent prices based on property details, built with **Python, scikit-learn, and Gradio**.  
+A **machine learning ** that predicts apartment rent prices based on property details, built with **Python, scikit-learn, and Gradio**.  
 The app also displays **model performance metrics** in real-time.
 
 ---
