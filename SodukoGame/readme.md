@@ -25,4 +25,4 @@ A Python desktop application to play and solve Sudoku puzzles, featuring puzzle 
 
 2. Run the application:
 ```bash
-python main.py
+python run.py
